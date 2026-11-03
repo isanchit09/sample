@@ -1,1 +1,1 @@
-# QuickDine
+sample_restaurant
